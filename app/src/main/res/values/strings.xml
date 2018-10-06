@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">LacapMarianneExam1</string>
+    <string name="editBtn">edit</string>
+    <string name="dropBtn">dropbutton</string>
+    <string name="text1">Note 1</string>
+    <string name="subtext1">Stefanie Ruby A. Lacap, currently a Grade 10 student at MSHS.</string>
+    <string name="text2">Note 2</string>
+    <string name="subtext2">She is 14 years of age. She wants to be a Doctor someday. She would want also to be a Korean someday.</string>
+    <string name="pic1" />
+    <string name="pic2" />
+    <string name="subtext3">She\'s good at singing, she loves to watch korean dramas, and she eats a lot.</string>
+    <string name="btn_scan_qr">PN</string>
+    <string name="personalNotes">Personal Notes</string>
+    <string name="btn">ON</string>
+    <string name="btn1">PN</string>
+    <string name="officeNotes">Office Notes</string>
+    <string name="publicNotes">Public Notes</string>
+</resources>
